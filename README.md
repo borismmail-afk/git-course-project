@@ -4,3 +4,8 @@ Feature created by Codex
  
 ## Project goal 
 This project is used to practice Git, GitHub workflow, branches, pull requests, and Codex-assisted development. 
+ 
+## Learning checklist 
+- Branch workflow 
+- Pull request workflow 
+- Cleanup after merge 
