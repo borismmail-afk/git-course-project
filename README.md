@@ -9,3 +9,7 @@ This project is used to practice Git, GitHub workflow, branches, pull requests, 
 - Branch workflow 
 - Pull request workflow 
 - Cleanup after merge 
+ 
+## Workflow notes 
+Pull requests can be updated after review. 
+New commits pushed to the same branch automatically update the open pull request. 
